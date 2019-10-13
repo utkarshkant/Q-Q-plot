@@ -1,6 +1,6 @@
 # Q-Q-plot
 <ul>
-  <li>Q-Q Plot - Also known as **Quartile-Quartile Plots**</li>
+  <li>Q-Q Plot - Also known as Quartile-Quartile Plots</li>
 </ul>
 Applications of Q-Q Plot
 <ul>
